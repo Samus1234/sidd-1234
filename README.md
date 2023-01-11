@@ -2,11 +2,11 @@
 
 I am Siddharth Gangadhar! I'm a graduate Computer Engineering student at Carnegie Mellon University.
 
-Here's a list of my simulations and ROS projects pertaining to my graduate research work:
+Check out these simulations and ROS projects pertaining to my graduate research work:
 
 * [occlusion-and-interaction-aware-safe-control] [https://github.com/sidd-1234/occlusion-and-interaction-aware-safe-control]
 * [occlusion-and-interaction-aware-safe-control-ROS] [https://github.com/sidd-1234/occlusion-and-interaction-aware-safe-control-ROS]
-* [anytime-autonomy] [https://github.com/mlab-upenn/anytime-stack]
+* [anytime-autonomy-ROS] [https://github.com/mlab-upenn/anytime-stack]
 * [iv-2022-safe-control-simulation] [https://github.com/sidd-1234/iv-2022-safe-control-simulation]
 
 And this is an experimental project on GPU computing in C++ using CUDA
