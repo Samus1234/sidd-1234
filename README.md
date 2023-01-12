@@ -9,7 +9,7 @@ Check out these simulations and ROS projects pertaining to my graduate research 
 * [anytime-autonomy-ROS] [https://github.com/mlab-upenn/anytime-stack]
 * [iv-2022-safe-control-simulation] [https://github.com/sidd-1234/iv-2022-safe-control-simulation]
 
-And this is an experimental project on using Eigen and CUDA for deep learning applications in C++
+And this is a personal experimental project on using Eigen and CUDA for deep learning applications in C++
 
 * [cpp-torch-from-scratch] [https://github.com/sidd-1234/cpp-torch-from-scratch]
 
