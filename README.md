@@ -8,7 +8,7 @@ Check out these simulations and ROS projects pertaining to my graduate research 
 * [occlusion-and-interaction-aware-safe-control-ROS] [https://github.com/sidd-1234/occlusion-and-interaction-aware-safe-control-ROS]
 * [anytime-autonomy-ROS] [https://github.com/mlab-upenn/anytime-stack]
 * [iv-2022-safe-control-simulation] [https://github.com/sidd-1234/iv-2022-safe-control-simulation]
-* [ekf--model-identification] [https://github.com/sidd-1234/ekf-model-identification]
+* [ekf-model-identification] [https://github.com/sidd-1234/ekf-model-identification]
 
 And this is a personal experimental project on using Eigen and CUDA for deep learning applications in C++
 
