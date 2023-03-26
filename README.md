@@ -9,11 +9,11 @@ Check out these simulations and ROS projects pertaining to my graduate research 
 * [anytime-autonomy-ROS] [https://github.com/mlab-upenn/anytime-stack]
 * [iv-2022-safe-control-simulation] [https://github.com/sidd-1234/iv-2022-safe-control-simulation]
 * [ekf-model-identification] [https://github.com/sidd-1234/ekf-model-identification]
+
+And these simulations and projects as part of my coursework at Carnegie Mellon University
+
+* [18-661-cpp-torch-from-scratch] [https://github.com/sidd-1234/cpp-torch-from-scratch]
 * [18-776-model-adaptive-drone-control] [[https://github.com/sidd-1234/18-776-model-adaptive-drone-control]
-
-And this is for a machine learning course project on using Eigen and CUDA for deep learning applications in C++
-
-* [cpp-torch-from-scratch] [https://github.com/sidd-1234/cpp-torch-from-scratch]
 
 <!--
 **sidd-1234/sidd-1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
